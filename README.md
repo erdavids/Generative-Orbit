@@ -1,4 +1,4 @@
-# Generative Orbit
+# Generative Orbit / [Tutorial](https://www.youtube.com/watch?v=jeocE6bLczE)
 
 I'm always trying new approaches to generating Solar Systems, and I really like the way this one looks. Also, this is just a simple Python version of an interactive one I made with P5.js. You can try out that version with the link below.
 
